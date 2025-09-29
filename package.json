@@ -33,8 +33,6 @@
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "^13.5.0",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
     "axios": "^0.26.1",
     "bootstrap": "latest",
     "class-variance-authority": "^0.7.1",
@@ -61,6 +59,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "postcss": "^8.5",
+    "tailwindcss": "4.1.13",
     "typescript": "^5"
   }
 }
