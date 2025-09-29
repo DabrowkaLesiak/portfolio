@@ -30,7 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and Products with AI integrated </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
@@ -75,7 +75,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/DabrowkaLesiak"
                   target="_blank"
@@ -104,7 +104,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>

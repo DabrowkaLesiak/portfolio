@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import chat from "../../Assets/Projects/chat.png";
 import cahill from "../../Assets/Projects/Cahill.PNG";
-import abacus from "../../Assets/Projects/Abacus.png";
+import abacus from "../../Assets/Projects/Abacus.PNG";
 
 function Projects() {
   return (
