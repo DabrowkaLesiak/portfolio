@@ -27,7 +27,7 @@ function Toolstack() {
         <SiVercel />
       </Col>
     </Row>
-  );
+  )
 }
 
-export default Toolstack;
+export default Toolstack
